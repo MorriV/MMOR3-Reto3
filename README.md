@@ -1,2 +1,3 @@
-Hola soy la rama task3, donde task3 es tu rama principal
-Hola soy la rama task4, donde task4 es la rama actual
+Hola soy la rama task2, donde task2 es la rama actual
+Hola soy la rama task1, donde task1 es la rama actual
+Este es un hotfix critico para feature1
